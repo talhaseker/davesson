@@ -3,7 +3,7 @@
 
 * Ali Atli - 21302442
 * Berk Turk - 21302570
-* Sefa Gundogan - 21301794
+* Sefa Gundogdu - 21301794
 * Burak Ozmen - 21200918
 
 
