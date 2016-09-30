@@ -15,4 +15,4 @@ Dave Davesson is a platform game that comes in two flavors: Single player and mu
 	
 ![alt tag](http://image.dosgamesarchive.com/screenshots/dave2.gif)
 
-(Image 1: ttp://www.dosgamesarchive.com/dowhnload/dangerous-dave/)
+(Image 1: http://www.dosgamesarchive.com/dowhnload/dangerous-dave/)
