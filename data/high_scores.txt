@@ -1,0 +1,5 @@
+Name	  Score
+1.John	  1000
+2.Jane	  750
+3.Jim	  500
+4.Jenny	  100
